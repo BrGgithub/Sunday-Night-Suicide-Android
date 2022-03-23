@@ -581,7 +581,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Sunday Night Suicide By'], 15);
 					#else
-					createCoolText(['The_Mayz', 'SonicBoyForLife', 'Port By MaysLastPlay', 'Saw (M.A. Jigsaw) PE Android, ShadowMario PE PC ']);
+					createCoolText(['The_Mayz', 'SonicBoyForLife', 'Port By MaysLastPlay', 'Saw (M.A. Jigsaw) PE Android, ShadowMario PE PC Lol ']);
 					#end
 				// credTextShit.visible = true;
 				case 3:
